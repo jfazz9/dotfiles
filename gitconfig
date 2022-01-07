@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jftennis@gmail.com
+	name = james farrell
